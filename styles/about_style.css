@@ -34,7 +34,7 @@ button:hover {
 
 .frontpage {
     position: relative;
-    background: url(../img/aboutpage.jpg) no-repeat;
+    background: url('../samples/aboutbackphoto.jpg') no-repeat;
     background-size: cover;
     opacity: 0.91;
 }
@@ -140,7 +140,7 @@ a img:hover {
     flex-direction: column;
     font-size: 18px;
     margin-left: 380px;
-    padding-left: 138px;
+    padding-left: 410px;
     padding-right: 320px;
     padding-bottom: 495px;
     font-weight: bolder;
